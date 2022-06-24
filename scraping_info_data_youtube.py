@@ -13,35 +13,28 @@ youtubeVideoChart = 'mostPopular'
 youtubeVideoID = 'vtPK0feHhSs'
 youtubeVideoMaxResults = 1000
 
-# %%
+# %%pip install virtualenv
 import json
 import pandas as pd
 import numpy as np
 
 # %%
-listFile=[
-          # 'scraping_data_01.txt',
-          # 'scraping_data_02.txt',
-          'scraping_data.txt'
-]
+file = 'scraping_data.txt'
 
 out = open("list_id.txt", "w")
 listIDs = []
-for file in [listFile[0]]:
-  f = open(file, "r")
-  print(f)
-  urls = f.readlines()
-  
-  for url in urls:
-    try:
-      id = url.split('?v=')[1]
-    except Exception as e:
-      print(e)
-    
-    if id in listIDs:
-      continue
-    listIDs.append(id)
-    print(id)
+
+f = open(file, "r")
+urls = f.readlines()
+
+for url in urls:
+  if '?v=' in url:
+    id = url.split('?v=')[1]
+    if id not in listIDs:
+      listIDs.append(id)
+  else:
+    continue
+
 for id in listIDs:
   out.write(id)
 print(len(listIDs))
@@ -60,7 +53,6 @@ df = []
 for id in listIDs:
   id = id.split('\n')[0]
   response = getInfoYouTubeVideo(id)
-  print(response['items'])
   if len(response['items']) == 0:
     continue
   i = 0
@@ -118,10 +110,9 @@ for id in listIDs:
     'topicCategories': videoTopicCategories
   }
   df.append(videoDict)
-display(pd.DataFrame(df))
 
 # %%
-pd.DataFrame(df).to_csv('list_info_02.csv', index=False)
+pd.DataFrame(df).to_csv('list_info.csv', index=False)
 
 # %%
 pd.DataFrame(df).shape

@@ -1,4 +1,4 @@
-# Introduction-to-Machine-Learning
+# Machine Learning and Data Mining
 This project for purpose analyzing music trending video of users in the world.
 
 ### Install requirements

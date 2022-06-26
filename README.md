@@ -11,8 +11,8 @@ pip3 install -r requirements.txt
 
 ```bash
 python youtube_scraping.py
+python scraping_info_data_youtube.py
 ```
 
 ### Data Analysis
-Run notebook: !Analysis_Youtube.ipynb to discover and analyze data with KMeans Clustering Algorithm<br>
-Run notebook: GaussianMixture.ipynb to discover and analyze data with Gaussian Mixture Algorithm<br>
+run file: youtube_music_analysis.ipynb

@@ -1,0 +1,234 @@
+1650642153967	geckodriver	INFO	Listening on 127.0.0.1:56322
+1650642272060	geckodriver	INFO	Listening on 127.0.0.1:56471
+1650642543860	geckodriver	INFO	Listening on 127.0.0.1:56784
+1650642544302	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56785" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofileCqoLnr"
+1650642544609	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofileCqoLnr/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56785/devtools/browser/da2f4611-2e55-483d-a0d1-cc0d4cf4cd76
+1650642545774	Marionette	INFO	Listening on port 56802
+Read port: 56802
+1650642545877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642547199	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-22T15:49:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:49:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:49:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:49:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650642624671	geckodriver	INFO	Listening on 127.0.0.1:56958
+1650642625090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56959" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofilemYPryn"
+1650642625381	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofilemYPryn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56959/devtools/browser/9ab05609-e1e1-41b0-bddf-1f5e0db86f20
+1650642626167	Marionette	INFO	Listening on port 56972
+Read port: 56972
+1650642626240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642628937	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-22T15:50:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:50:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:50:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:50:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:50:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:50:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:50:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:50:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650642770244	geckodriver	INFO	Listening on 127.0.0.1:57199
+1650642770663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57200" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile7pK76f"
+1650642770937	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile7pK76f/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57200/devtools/browser/313bf2cc-2200-4086-aa86-b417d377b285
+1650642771998	Marionette	INFO	Listening on port 57217
+Read port: 57217
+1650642772052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642773335	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-22T15:52:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:52:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:52:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:52:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:53:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:54:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650642975216	geckodriver	INFO	Listening on 127.0.0.1:57488
+1650642975632	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57489" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile6ZUJXE"
+1650642975920	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile6ZUJXE/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57489/devtools/browser/929c7402-ffd4-4ea1-8dd2-15756c257ba4
+1650642976999	Marionette	INFO	Listening on port 57507
+Read port: 57507
+1650642977090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642985206	geckodriver	INFO	Listening on 127.0.0.1:57542
+1650642985636	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57543" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofileQ7OuTI"
+1650642985915	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofileQ7OuTI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57543/devtools/browser/ac857a78-289d-46a5-b684-a646aa258e45
+1650642986994	Marionette	INFO	Listening on port 57561
+Read port: 57561
+1650642987031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643004105	geckodriver	INFO	Listening on 127.0.0.1:57607
+1650643004522	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57608" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofilekLNMZx"
+1650643004800	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofilekLNMZx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57608/devtools/browser/34685698-011f-46f7-a96b-3ee9b8a73748
+1650643005826	Marionette	INFO	Listening on port 57625
+Read port: 57625
+1650643005886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643015949	geckodriver	INFO	Listening on 127.0.0.1:57658
+1650643016386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57659" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile4kN3QO"
+1650643016661	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile4kN3QO/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57659/devtools/browser/1de846f4-8117-4a2f-b01c-112d7fcedd92
+1650643017710	Marionette	INFO	Listening on port 57677
+Read port: 57677
+1650643017748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643019023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-22T15:56:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:56:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:56:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:56:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:57:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:58:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:59:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:59:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:59:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T15:59:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 131496900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650643248788	geckodriver	INFO	Listening on 127.0.0.1:57988
+1650643249208	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57989" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile8J6el1"
+1650643249497	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile8J6el1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57989/devtools/browser/935bc7b7-60ea-4199-9c5e-4318cb9c723a
+1650643250555	Marionette	INFO	Listening on port 58005
+Read port: 58005
+1650643250665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643251567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-22T16:00:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:00:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:00:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:00:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:01:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:01:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:01:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:01:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:02:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:02:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:02:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:02:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:03:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:03:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:03:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:03:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:04:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:04:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:04:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:04:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:05:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:05:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:05:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:05:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:06:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:06:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:06:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:06:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:07:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:07:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:07:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T16:07:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650647860870	Marionette	INFO	Stopped listening on port 58005
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650647860995	Marionette	INFO	Stopped listening on port 57677
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650647861096	Marionette	INFO	Stopped listening on port 57625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650647861173	Marionette	INFO	Stopped listening on port 57561
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650647861251	Marionette	INFO	Stopped listening on port 57507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650647861330	Marionette	INFO	Stopped listening on port 57217
+1650647861419	Marionette	INFO	Stopped listening on port 56972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

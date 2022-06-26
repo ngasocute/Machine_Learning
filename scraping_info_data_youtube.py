@@ -20,10 +20,8 @@ import numpy as np
 
 # %%
 listFile=[
-          # 'scraping_data_01.txt',
-          # 'scraping_data_02.txt',
           'scraping_data.txt'
-]
+          ]
 
 out = open("list_id.txt", "w")
 listIDs = []
@@ -41,10 +39,8 @@ for file in [listFile[0]]:
     if id in listIDs:
       continue
     listIDs.append(id)
-    print(id)
 for id in listIDs:
   out.write(id)
-print(len(listIDs))
 
 # %%
 def getInfoYouTubeVideo(id):
@@ -60,7 +56,6 @@ df = []
 for id in listIDs:
   id = id.split('\n')[0]
   response = getInfoYouTubeVideo(id)
-  print(response['items'])
   if len(response['items']) == 0:
     continue
   i = 0
@@ -118,7 +113,6 @@ for id in listIDs:
     'topicCategories': videoTopicCategories
   }
   df.append(videoDict)
-display(pd.DataFrame(df))
 
 # %%
 pd.DataFrame(df).to_csv('list_info_02.csv', index=False)

@@ -1,15 +1,7 @@
 from selenium import webdriver
 from time import sleep
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
-
-import csv
 
 listSearchURLs = [
     'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+tr%E1%BA%BB', # nhạc trẻ
@@ -19,7 +11,10 @@ listSearchURLs = [
     'https://www.youtube.com/results?search_query=ca+kh%C3%BAc&sp=EgIIBQ%253D%253D', #ca khúc
     'https://www.youtube.com/results?search_query=mv+official&sp=EgIIBQ%253D%253D', # mv official
     'https://www.youtube.com/results?search_query=music+video&sp=EgIIBQ%253D%253D', # music video
-    'https://www.youtube.com/results?search_query=official+video&sp=EgIIBQ%253D%253D' # official video
+    'https://www.youtube.com/results?search_query=official+video&sp=EgIIBQ%253D%253D', # official video
+    'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+ti%E1%BA%BFng+anh+chill', # nhạc tiếng anh chill
+    'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+lofi+chill+', #nhạc lofi chill
+    'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+tiktok+hay', # nhạc tiktok hay 
 ]
 browser = webdriver.Firefox(executable_path=GeckoDriverManager().install())
 f = open('scraping_data.txt', 'a', encoding='utf-8')

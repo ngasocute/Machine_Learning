@@ -115,7 +115,7 @@ for id in listIDs:
   df.append(videoDict)
 
 # %%
-pd.DataFrame(df).to_csv('list_info_02.csv', index=False)
+pd.DataFrame(df).to_csv('list_info.csv', index=False)
 
 # %%
 pd.DataFrame(df).shape

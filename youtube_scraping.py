@@ -15,6 +15,9 @@ listSearchURLs = [
     'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+ti%E1%BA%BFng+anh+chill', # nhạc tiếng anh chill
     'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+lofi+chill+', #nhạc lofi chill
     'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+tiktok+hay', # nhạc tiktok hay 
+    'https://www.youtube.com/results?search_query=best+love+songs+2022', #best love songs 2022
+    'https://www.youtube.com/results?search_query=trending+tiktok+songs', # trending tiktok songs
+    'https://www.youtube.com/results?search_query=nh%E1%BA%A1c+lofi+chill+ti%E1%BA%BFng+anh', # nhạc lofi chill tiếng anh
 ]
 browser = webdriver.Firefox(executable_path=GeckoDriverManager().install())
 f = open('scraping_data.txt', 'a', encoding='utf-8')

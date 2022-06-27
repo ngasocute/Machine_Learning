@@ -11,10 +11,10 @@ pip3 install -r requirements.txt
 
 ```bash
 python youtube_scraping.py
-# for crawl data from youtube and located them to scraping_data.txt
+# for crawl url from youtube and located them to scraping_data.txt
 # then 
 python scraping_info_data_youtube.py 
-# for detach infor and id from scraping_data.txt to list_infor.csv and list_id.txt
+# from list url at file scraping_data.txt we extract ID and call API to youtube to get the information of each video and store in file list_infor.csv and id are stored in file list_id.txt
 ```
 
 ### Data Analysis

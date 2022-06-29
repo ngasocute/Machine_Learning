@@ -825,3 +825,71 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1656512096966	geckodriver	INFO	Listening on 127.0.0.1:50499
+1656512097394	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50500" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile3TPZcg"
+1656512097620	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ms/gfqhw9v15v55931yqg1_j3t80000gn/T/rust_mozprofile3TPZcg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50500/devtools/browser/715f0276-1ccf-43e4-a7ee-ab189c1b5fe8
+1656512098289	Marionette	INFO	Listening on port 50520
+Read port: 50520
+1656512098341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656512099867	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-29T14:15:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:15:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:16:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:17:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:19:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:19:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:19:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:19:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:20:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:20:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:20:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:20:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:21:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:21:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:21:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:21:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:23:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:23:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:23:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-29T14:23:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"

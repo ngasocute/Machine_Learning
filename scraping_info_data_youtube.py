@@ -19,12 +19,11 @@ import pandas as pd
 import numpy as np
 
 # %%
-listFile=[
-          'scraping_data.txt'
-          ]
-
 out = open("list_id.txt", "w")
 listIDs = []
+f = open('scraping_data.txt', "r")
+urls = f.readlines()
+
 for url in urls:
   if '?v=' in url:
     id = url.split('?v=')[1] 

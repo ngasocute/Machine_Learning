@@ -6,6 +6,8 @@ This project for purpose analyzing music trending video of users in the world.
 ```bash
 pip3 install -r requirements.txt
 ```
+### Install environment
+Install firefox
 
 ### Crawl data
 
@@ -18,4 +20,4 @@ python scraping_info_data_youtube.py
 ```
 
 ### Data Analysis
-run file: youtube_music_analysis.ipynb
+run step by step file: youtube_music_analysis.ipynb

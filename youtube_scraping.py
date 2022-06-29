@@ -1,6 +1,5 @@
 from selenium import webdriver
 from time import sleep
-from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 
 listSearchURLs = [

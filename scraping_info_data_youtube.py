@@ -19,28 +19,6 @@ import pandas as pd
 import numpy as np
 
 # %%
-# listFile=[
-#           'scraping_data.txt'
-#           ]
-
-# out = open("list_id.txt", "w")
-# listIDs = []
-# for file in [listFile[0]]:
-#   f = open(file, "r")
-#   print(f)
-#   urls = f.readlines()
-  
-#   for url in urls:
-#     try:
-#       id = url.split('?v=')[1]
-#     except Exception as e:
-#       print(e)
-    
-#     if id in listIDs:
-#       continue
-#     listIDs.append(id)
-# for id in listIDs:
-#   out.write(id)
 out = open("list_id.txt", "w")
 listIDs = []
 f = open('scraping_data.txt', "r")
